@@ -1,0 +1,401 @@
+Restaurant State,Restaurant Name,Restaurant Rating,Restaurant Review
+AL,McDonalds,1.5,8
+AL,McDonalds,1.5,29
+AL,McDonalds,1.5,31
+AL,McDonalds,1.5,19
+AL,McDonalds,1.5,18
+AL,McDonalds,2.0,13
+AL,McDonalds,1.0,3
+AL,McDonalds,1.5,23
+AL,McDonalds,1.5,18
+AL,McDonalds,2.0,17
+AL,McDonalds,2.0,4
+AL,McDonalds,2.0,5
+AL,McDonalds,1.0,2
+AL,McDonalds,2.5,12
+AL,McDonalds,1.5,7
+AL,McDonalds,2.0,11
+AL,McDonalds,1.0,6
+AL,McDonalds,1.0,5
+AL,McDonalds,2.5,2
+AL,McDonalds,3.0,5
+AL,Wendys,2.5,13
+AL,Wendys,3.0,18
+AL,Wendys,2.0,10
+AL,Wendys,2.5,4
+AL,Wendys,1.5,18
+AL,Wendys,3.0,4
+AL,Wendys,1.5,18
+AL,Wendys,1.0,2
+AL,Wendys,2.5,3
+AL,Wendys,4.5,2
+AL,Wendys,3.5,5
+AL,Wendys,1.0,3
+AL,Wendys,2.5,4
+AL,Wendys,2.0,3
+AL,Wendys,2.5,10
+AL,Wendys,1.5,11
+AL,Wendys,1.0,6
+AL,Wendys,1.0,8
+AL,Wendys,2.0,5
+AL,Wendys,3.5,117
+AL,KFC,1.5,3
+AL,KFC,2.5,2
+AL,KFC,1.5,5
+AL,KFC,4.5,2
+AL,KFC,1.0,1
+AL,KFC,2.0,5
+AL,KFC,1.0,1
+AL,KFC,2.5,9
+AL,KFC,1.5,4
+AL,KFC,1.0,6
+AL,KFC,1.0,2
+AL,KFC,4.5,398
+AL,KFC,4.5,208
+AL,KFC,4.0,71
+AL,KFC,3.5,27
+AL,KFC,2.5,10
+AL,KFC,5.0,5
+AL,KFC,5.0,8
+AL,KFC,3.5,10
+AL,KFC,4.0,11
+AL,Burger King,1.5,3
+AL,Burger King,1.0,13
+AL,Burger King,1.5,12
+AL,Burger King,2.0,13
+AL,Burger King,1.5,15
+AL,Burger King,1.5,7
+AL,Burger King,1.5,3
+AL,Burger King,2.0,4
+AL,Burger King,1.0,3
+AL,Burger King,2.0,3
+AL,Burger King,1.5,6
+AL,Burger King,1.5,3
+AL,Burger King,2.0,9
+AL,Burger King,1.0,2
+AL,Burger King,2.5,3
+AL,Burger King,2.5,4
+AL,Burger King,1.5,5
+AL,Burger King,1.5,5
+AL,Burger King,3.0,2
+AL,Burger King,2.0,4
+IA,McDonalds,3.0,3
+IA,McDonalds,1.5,13
+IA,McDonalds,2.5,13
+IA,McDonalds,2.0,5
+IA,McDonalds,1.0,5
+IA,McDonalds,3.0,4
+IA,McDonalds,3.0,7
+IA,McDonalds,2.0,17
+IA,McDonalds,2.0,9
+IA,McDonalds,2.0,8
+IA,McDonalds,4.0,4
+IA,McDonalds,2.0,9
+IA,McDonalds,1.0,3
+IA,McDonalds,1.5,14
+IA,McDonalds,3.0,6
+IA,McDonalds,2.0,11
+IA,McDonalds,1.5,4
+IA,McDonalds,1.5,10
+IA,McDonalds,3.0,6
+IA,McDonalds,2.0,9
+IA,Wendys,3.0,5
+IA,Wendys,2.5,6
+IA,Wendys,1.5,10
+IA,Wendys,2.5,9
+IA,Wendys,1.5,15
+IA,Wendys,5.0,8
+IA,Wendys,4.0,22
+IA,Wendys,4.0,20
+IA,Wendys,2.5,31
+IA,Wendys,4.0,20
+IA,Wendys,2.5,5
+IA,Wendys,3.0,19
+IA,Wendys,4.0,1108
+IA,Wendys,3.0,66
+IA,Wendys,3.0,14
+IA,Wendys,4.5,2
+IA,Wendys,2.0,13
+IA,Wendys,4.5,22
+IA,Wendys,4.0,37
+IA,Wendys,4.5,4
+IA,KFC,3.0,3
+IA,KFC,3.5,6
+IA,KFC,3.0,2
+IA,KFC,3.0,5
+IA,KFC,2.5,4
+IA,KFC,3.0,5
+IA,KFC,3.0,8
+IA,KFC,3.0,25
+IA,KFC,4.5,5
+IA,KFC,4.0,26
+IA,KFC,2.5,6
+IA,KFC,4.0,3
+IA,KFC,4.5,46
+IA,KFC,4.0,23
+IA,KFC,4.5,4
+IA,KFC,4.5,14
+IA,KFC,4.0,9
+IA,KFC,2.0,5
+IA,KFC,4.0,7
+IA,KFC,4.5,2
+IA,Burger King,2.5,5
+IA,Burger King,4.0,4
+IA,Burger King,2.0,9
+IA,Burger King,3.5,3
+IA,Burger King,4.0,3
+IA,Burger King,1.0,3
+IA,Burger King,2.0,9
+IA,Burger King,2.5,4
+IA,Burger King,2.0,4
+IA,Burger King,2.0,13
+IA,Burger King,2.0,4
+IA,Burger King,3.5,4
+IA,Burger King,4.0,3
+IA,Burger King,4.0,1108
+IA,Burger King,4.0,97
+IA,Burger King,3.0,99
+IA,Burger King,4.0,22
+IA,Burger King,3.5,46
+IA,Burger King,3.5,80
+IA,Burger King,4.0,18
+OK,McDonalds,1.5,20
+OK,McDonalds,2.5,16
+OK,McDonalds,2.0,8
+OK,McDonalds,1.5,8
+OK,McDonalds,1.5,4
+OK,McDonalds,1.0,3
+OK,McDonalds,1.5,7
+OK,McDonalds,1.5,14
+OK,McDonalds,1.5,16
+OK,McDonalds,1.0,8
+OK,McDonalds,1.0,6
+OK,McDonalds,1.0,4
+OK,McDonalds,2.0,15
+OK,McDonalds,1.5,4
+OK,McDonalds,2.0,5
+OK,McDonalds,2.0,6
+OK,McDonalds,1.0,1
+OK,McDonalds,1.5,14
+OK,McDonalds,1.5,7
+OK,McDonalds,1.0,6
+OK,Wendys,3.0,5
+OK,Wendys,1.5,3
+OK,Wendys,2.0,1
+OK,Wendys,2.0,3
+OK,Wendys,2.5,9
+OK,Wendys,1.5,6
+OK,Wendys,1.5,13
+OK,Wendys,2.5,11
+OK,Wendys,2.5,12
+OK,Wendys,1.5,17
+OK,Wendys,1.5,14
+OK,Wendys,2.5,11
+OK,Wendys,4.5,349
+OK,Wendys,4.0,202
+OK,Wendys,4.5,234
+OK,Wendys,3.5,38
+OK,Wendys,4.0,181
+OK,Wendys,4.0,142
+OK,Wendys,1.5,2
+OK,Wendys,4.0,70
+OK,KFC,2.0,5
+OK,KFC,4.0,1
+OK,KFC,2.0,11
+OK,KFC,5.0,2
+OK,KFC,2.5,3
+OK,KFC,2.5,5
+OK,KFC,1.0,1
+OK,KFC,3.0,9
+OK,KFC,2.0,8
+OK,KFC,1.5,14
+OK,KFC,1.5,2
+OK,KFC,1.0,1
+OK,KFC,1.0,5
+OK,KFC,1.5,6
+OK,KFC,1.0,7
+OK,KFC,1.5,7
+OK,KFC,2.5,8
+OK,KFC,1.5,7
+OK,KFC,4.0,5
+OK,KFC,2.5,7
+OK,Burger King,2.0,8
+OK,Burger King,3.0,9
+OK,Burger King,2.5,3
+OK,Burger King,1.0,7
+OK,Burger King,2.0,4
+OK,Burger King,2.0,7
+OK,Burger King,1.5,6
+OK,Burger King,2.5,3
+OK,Burger King,4.0,1
+OK,Burger King,2.0,8
+OK,Burger King,1.0,1
+OK,Burger King,2.0,4
+OK,Burger King,1.5,2
+OK,Burger King,2.0,4
+OK,Burger King,2.0,14
+OK,Burger King,2.5,9
+OK,Burger King,2.0,15
+OK,Burger King,4.5,349
+OK,Burger King,4.0,202
+OK,Burger King,4.5,103
+MS,McDonalds,2.0,1
+MS,McDonalds,3.0,9
+MS,McDonalds,3.0,1
+MS,McDonalds,1.5,9
+MS,McDonalds,1.0,4
+MS,McDonalds,1.0,10
+MS,McDonalds,1.0,8
+MS,McDonalds,1.0,2
+MS,McDonalds,1.5,25
+MS,McDonalds,3.0,4
+MS,McDonalds,1.0,4
+MS,McDonalds,1.5,12
+MS,McDonalds,1.5,19
+MS,McDonalds,1.0,26
+MS,McDonalds,4.5,102
+MS,McDonalds,4.0,16
+MS,McDonalds,3.0,31
+MS,McDonalds,3.5,100
+MS,McDonalds,4.5,5
+MS,McDonalds,4.5,237
+MS,Wendys,1.5,2
+MS,Wendys,2.0,2
+MS,Wendys,3.0,5
+MS,Wendys,1.0,3
+MS,Wendys,1.5,5
+MS,Wendys,2.0,4
+MS,Wendys,1.0,2
+MS,Wendys,2.0,3
+MS,Wendys,3.0,3
+MS,Wendys,3.0,6
+MS,Wendys,1.0,4
+MS,Wendys,2.5,7
+MS,Wendys,4.0,16
+MS,Wendys,3.0,31
+MS,Wendys,4.5,102
+MS,Wendys,2.5,3
+MS,Wendys,4.5,237
+MS,Wendys,4.5,2
+MS,Wendys,4.5,5
+MS,Wendys,1.5,32
+MS,KFC,1.0,3
+MS,KFC,2.5,6
+MS,KFC,1.5,14
+MS,KFC,2.0,1
+MS,KFC,1.0,3
+MS,KFC,1.0,8
+MS,KFC,4.5,29
+MS,KFC,4.5,6
+MS,KFC,4.5,5
+MS,KFC,5.0,1
+MS,KFC,4.5,19
+MS,KFC,4.0,14
+MS,KFC,4.5,18
+MS,KFC,5.0,2
+MS,KFC,5.0,1
+MS,KFC,4.5,9
+MS,KFC,3.0,5
+MS,KFC,4.0,16
+MS,KFC,4.0,4
+MS,KFC,4.5,2
+MS,Burger King,3.5,3
+MS,Burger King,2.0,5
+MS,Burger King,2.5,2
+MS,Burger King,2.5,3
+MS,Burger King,1.0,2
+MS,Burger King,2.5,5
+MS,Burger King,1.0,2
+MS,Burger King,1.5,11
+MS,Burger King,4.5,102
+MS,Burger King,3.5,104
+MS,Burger King,3.5,158
+MS,Burger King,4.5,29
+MS,Burger King,4.0,21
+MS,Burger King,3.5,107
+MS,Burger King,4.5,237
+MS,Burger King,3.5,100
+MS,Burger King,4.5,41
+MS,Burger King,4.0,16
+MS,Burger King,3.0,31
+MS,Burger King,4.0,23
+WV,McDonalds,1.5,12
+WV,McDonalds,1.5,10
+WV,McDonalds,1.5,7
+WV,McDonalds,1.5,8
+WV,McDonalds,1.5,3
+WV,McDonalds,2.0,4
+WV,McDonalds,2.0,7
+WV,McDonalds,2.0,24
+WV,McDonalds,3.5,23
+WV,McDonalds,3.5,3
+WV,McDonalds,3.0,15
+WV,McDonalds,2.5,6
+WV,McDonalds,4.5,4
+WV,McDonalds,4.5,13
+WV,McDonalds,2.0,7
+WV,McDonalds,4.5,4
+WV,McDonalds,4.0,11
+WV,McDonalds,5.0,1
+WV,McDonalds,4.0,44
+WV,McDonalds,4.5,3
+WV,Wendys,1.5,8
+WV,Wendys,2.0,11
+WV,Wendys,4.5,2
+WV,Wendys,2.5,3
+WV,Wendys,4.5,4
+WV,Wendys,2.0,1
+WV,Wendys,2.0,4
+WV,Wendys,4.5,13
+WV,Wendys,1.5,10
+WV,Wendys,1.5,12
+WV,Wendys,4.5,4
+WV,Wendys,3.0,20
+WV,Wendys,2.5,3
+WV,Wendys,4.0,67
+WV,Wendys,4.0,19
+WV,Wendys,4.0,11
+WV,Wendys,5.0,1
+WV,Wendys,3.0,9
+WV,Wendys,2.5,6
+WV,Wendys,3.5,11
+WV,KFC,1.0,1
+WV,KFC,1.5,4
+WV,KFC,1.5,4
+WV,KFC,1.5,3
+WV,KFC,4.5,13
+WV,KFC,5.0,1
+WV,KFC,5.0,1
+WV,KFC,3.5,16
+WV,KFC,4.5,3
+WV,KFC,4.5,4
+WV,KFC,4.5,4
+WV,KFC,4.0,11
+WV,KFC,4.5,2
+WV,KFC,4.0,15
+WV,KFC,2.5,2
+WV,KFC,3.5,27
+WV,KFC,4.0,44
+WV,KFC,3.0,3
+WV,KFC,3.5,4
+WV,KFC,3.0,5
+WV,Burger King,1.0,1
+WV,Burger King,3.0,3
+WV,Burger King,2.5,2
+WV,Burger King,1.5,3
+WV,Burger King,3.0,20
+WV,Burger King,4.0,44
+WV,Burger King,4.0,15
+WV,Burger King,4.0,67
+WV,Burger King,4.0,19
+WV,Burger King,3.5,23
+WV,Burger King,3.5,8
+WV,Burger King,2.5,6
+WV,Burger King,3.0,5
+WV,Burger King,4.5,4
+WV,Burger King,2.5,5
+WV,Burger King,1.5,4
+WV,Burger King,3.5,16
+WV,Burger King,2.0,7
+WV,Burger King,1.0,6
+WV,Burger King,2.0,24
